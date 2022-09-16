@@ -1,0 +1,2 @@
+blinker==1.5
+phonenumbers==8.12.23
